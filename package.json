@@ -1,0 +1,1 @@
+{"name":"learn-ledger","version":"1.0.0","private":true,"type":"module","scripts":{"postinstall":"node scripts/install.mjs","dev":"node scripts/dev.mjs","build":"npm --prefix client run build","start":"node server/src/server.js","test":"node --test server/test/*.test.mjs"},"engines":{"node":">=24.12.0"}}

@@ -1,0 +1,9 @@
+{
+  "name": "learn-ledger-client",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite --host 127.0.0.1", "build": "vite build", "preview": "vite preview --host 127.0.0.1"},
+  "dependencies": {"vue": "^3.5.22", "element-plus": "^2.11.5", "bootstrap-icons": "^1.13.1", "marked": "^16.4.1", "dompurify": "^3.3.0"},
+  "devDependencies": {"vite": "^7.1.12", "@vitejs/plugin-vue": "^6.0.1"}
+}
